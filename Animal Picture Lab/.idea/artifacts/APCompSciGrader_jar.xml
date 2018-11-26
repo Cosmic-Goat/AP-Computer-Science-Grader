@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="APCompSciGrader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/APCompSciGrader_jar</output-path>
+    <root id="root">
+      <element id="archive" name="APCompSciGrader.jar">
+        <element id="module-output" name="APCompSciGrader" />
+      </element>
+    </root>
+  </artifact>
+</component>
