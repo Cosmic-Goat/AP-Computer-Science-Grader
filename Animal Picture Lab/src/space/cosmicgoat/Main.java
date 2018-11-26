@@ -7,7 +7,8 @@ public class Main
 {
 	public static void main(String[] args) throws InterruptedException, IllegalAccessException
 	{
-		LabRunner test = new LabRunner(new File("/home/cosmicgoat/Development/IdeaProjects/APCompSciGrader/lib/Animal Pic lan Period 1 - Joe C/"));
+		//args[0] = "/home/cosmicgoat/Development/IdeaProjects/APCompSciGrader/lib/Animal Pic lan Period 1 - Joe C/";
+		LabRunner test = new LabRunner(new File(args[0]));
 
 		try
 		{
